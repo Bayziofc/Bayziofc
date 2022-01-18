@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayziofc&label=Profile%20views&color=0e75b6&style=flat" alt="bayziofc" /> </p>
 
-- 🔭 Meu projeto semi terminado [Global Chat](https://discord.com/api/oauth2/authorize?client_id=803482003869663273&permissions=446713679425&scope=bot)
+- 🔭 Meu projeto semi terminado: [Global Chat](https://discord.com/api/oauth2/authorize?client_id=803482003869663273&permissions=446713679425&scope=bot)
 
-- 🌱 No momento, estou aprendendo **Java e Python**
+- 🌱 No momento, estou aprendendo: **Java e Python**
 
-- ✨ Atualmente criando [Coala](https://github.com/Bayziofc)
+- ✨ Atualmente criando o [Coala](https://github.com/Bayziofc)
 
 - 🤝 Preciso de ajuda para [votar no Global Chat](https://wumposbotlist.glitch.me/bot/803482003869663273)
 
@@ -15,13 +15,13 @@
 
 - 📝 Eu escrevo regularmente artigos sobre [Discord Bots](https://github.com/Bayziofc)
 
-- 💬 Pergunte-me sobre **Discord.js, BDFD e Eris**
+- 💬 Pergunte-me sobre: **Discord.js, BDFD e Eris**
 
-- 📫 Como chegar até mim **bayziofc@gmail.com**
+- 📫 Como chegar até mim: **bayziofc@gmail.com**
 
 - 📄 Conheça minhas experiências em [meu perfil](https://github.com/Bayziofc)
 
-- ⚡ Fato divertido **Todos meus projetos foram criados pelo celular.**
+- ⚡ Fato divertido: **Todos meus projetos foram criados pelo celular.**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
